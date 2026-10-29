@@ -2,6 +2,8 @@
 
 Fine-tuning Stable Diffusion 1.5 with LoRA to generate Ankara (wax print) fabric patterns, with an optional seamless-tiling mode.
 
+**Demo video and write-up:** https://www.linkedin.com/posts/opeyemi-muyiwa-899614289_machinelearning-stablediffusion-fastai-ugcPost-7521542348523278337-aPXv/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7521542390013394944&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYJSPUByFaw5aJeFQ39GYMncOeKzcp5Les
+
 ## The problem
 
 Ask base Stable Diffusion for an "ankara print" and you get something that looks like a decorative *painting*: a focal point, lighting, depth. Real fabric is flat and evenly dense, with motifs arranged to repeat. This project teaches the model the second meaning.
